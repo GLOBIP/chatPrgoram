@@ -5,12 +5,12 @@ int main() {
   std::cout << "Give 1-Client , 2-Server";
   int what{};
   std::cin >> what;
-  // MainWindow ChooseWhatToDo;
+  MainWindow ChooseWhatToDo;
   if (what == 1) {
-    // ChooseWhatToDo.callClientSide();
+    ChooseWhatToDo.callClientSide();
 
   } else if (what == 2) {
-    // ChooseWhatToDo.callServerSide();
+    ChooseWhatToDo.callServerSide();
   }
 
   return 0;
