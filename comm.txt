@@ -1,0 +1,18 @@
+Client
+Sun Aug  2 09:49:46 2026
+siema
+Server
+Sun Aug  2 09:49:54 2026
+o siema
+Client
+Sun Aug  2 09:49:59 2026
+jak tam?
+Server
+Sun Aug  2 09:50:09 2026
+dobrze dobrze
+Client
+Sun Aug  2 09:52:41 2026
+siema
+Server
+Sun Aug  2 09:52:46 2026
+siema
